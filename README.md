@@ -12,5 +12,5 @@ O usuário pode adicionar o gênero do filme URL: /api/v1/genres/ |
 O usuário pode adicionar nota e comentário sobre o filme URL: /api/v1/reviews/ |
 
 🛠️Instalação: 
-Siga estes passos para configurar e executar o projeto localmente. 
+Siga estes passos para configurar e executar o projeto localmente: 
 pip install -r requirements.txt
